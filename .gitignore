@@ -1,0 +1,5 @@
+# EUROCONTROL source files are not redistributed; download them into data/
+data/co2_emmissions_by_state_*.csv
+out/
+fig/
+__pycache__/
